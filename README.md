@@ -1,2 +1,3 @@
 # homework-week 1
-Explaining what I did to the index.html file
+Explaining what I did to the index.html and style.css files for the website...
+First thing I noticed is that the top link for Search Engine Optimization is not working like the other links. The webpage does not scroll down. 
